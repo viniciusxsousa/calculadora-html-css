@@ -11,4 +11,4 @@ Este projeto consiste em um layout de calculadora desenvolvido utilizando apenas
 
 ### :desktop_computer: Previa
 
-![imagem do projeto](img/calc.png)
+![imagem do projeto](imgs/calc.png)
